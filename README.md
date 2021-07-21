@@ -18,3 +18,7 @@ Also Support Our Channel [Mai_bOTs](https://telegram.dog/Mai_bOTs)
 * [Dan Tès](https://telegram.dog/haskell) 
 * [Yoily](https://telegram.dog/YoilyL)
 * [Anand](https://telegram.dog/Anandpskerala)
+
+## HOW TO DEPLOY YOUTUBE TUTORIAL
+
+<a href="https://youtu.be/J3vzr20_ix8"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
