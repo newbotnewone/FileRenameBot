@@ -107,7 +107,7 @@ async def start_me(bot, update):
                 ],
                 [
                     InlineKeyboardButton('💾Create your own💾', url='https://youtu.be/J3vzr20_ix8'),
-                    InlineKeyboardButton('👀Any doubt👀', url='https://youtu.be/J3vzr20_ix8')
+                    InlineKeyboardButton('👀Any doubt👀', url='https://youtu.be/DFznXW0VL8k')
                 ]
             ]
         ),
