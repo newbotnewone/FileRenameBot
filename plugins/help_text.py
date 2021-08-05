@@ -51,7 +51,7 @@ async def help_user(bot, update):
             await update.reply_text(
                 text="**എന്നെ ഉപയോഗിക്കാൻ ആദ്യം ഞങ്ങളുടെ update channel ലിൽ join ചെയൂ..**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="update channel ൽ join ചെയ്യാൻ ഇതിൽ അമർത്തൂ", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="channel ൽ join ചെയ്യാൻ ഇതിൽ click", url=f"https://t.me/{update_channel}")]
               ])
             )
             return
@@ -90,7 +90,7 @@ async def start_me(bot, update):
             await update.reply_text(
                 text="**എന്നെ ഉപയോഗിക്കാൻ ആദ്യം ഞങ്ങളുടെ update channel ലിൽ join ചെയൂ..**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="update channel ൽ join ചെയ്യാൻ ഇതിൽ അമർത്തൂ", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="channel ൽ join ചെയ്യാൻ ഇതിൽ click", url=f"https://t.me/{update_channel}")]
               ])
             )
             return
