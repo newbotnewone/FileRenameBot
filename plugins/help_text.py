@@ -66,7 +66,7 @@ async def help_user(bot, update):
                     InlineKeyboardButton('📂File To Video', callback_data = "f2v")
                 ],
                 [
-                    InlineKeyboardButton('🎞️Custom Thumbnail', callback_data = "cthumb"),
+                    InlineKeyboardButton('🌌Custom Thumbnail', callback_data = "cthumb"),
                     InlineKeyboardButton('💬About', callback_data = "about")
                 ]
             ]
@@ -102,12 +102,12 @@ async def start_me(bot, update):
                         InlineKeyboardButton("Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('📺Support Channel📺', url='https://t.me/Dulquer_Salmaan_lovers'),
-                    InlineKeyboardButton('🖋️Feedback🖋️', url='https://t.me/FK_MOVIES_ADMIN')
+                    InlineKeyboardButton('📺support Channel📺', url='https://t.me/moviezup'),
+                    InlineKeyboardButton('👨‍💻Developer👨‍💻', url='https://t.me/Vj_achu')
                 ],
                 [
-                    InlineKeyboardButton('💾Create your own💾', url='https://youtu.be/J3vzr20_ix8'),
-                    InlineKeyboardButton('👀Any doubt👀', url='https://youtu.be/DFznXW0VL8k')
+                    InlineKeyboardButton('🎬Join To Movies Group🎬', url='https://t.me/CinemaCornerGroup'),
+                    InlineKeyboardButton('👀Any doubt👀', url='https://t.me/Vj_achu')
                 ]
             ]
         ),
@@ -168,7 +168,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
                     InlineKeyboardButton('📂File To Video', callback_data = "f2v")
                 ],
                 [
-                    InlineKeyboardButton('🎞️Custom Thumbnail', callback_data = "cthumb"),
+                    InlineKeyboardButton('🌌Custom Thumbnail', callback_data = "cthumb"),
                     InlineKeyboardButton('💬About', callback_data = "about")
                 ]
             ]
