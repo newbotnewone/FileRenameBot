@@ -102,12 +102,12 @@ async def start_me(bot, update):
                         InlineKeyboardButton("Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('📺support Channel📺', url='https://t.me/moviezup'),
-                    InlineKeyboardButton('👨‍💻Developer👨‍💻', url='https://t.me/Vj_achu')
+                    InlineKeyboardButton('📺support Channel📺', url='https://t.me/ottmovies_updates'),
+                    InlineKeyboardButton('👨‍💻Developer👨‍💻', url='https://t.me/Achu_vjsvj')
                 ],
                 [
                     InlineKeyboardButton('🎬Join To Movies Group🎬', url='https://t.me/CinemaCornerGroup'),
-                    InlineKeyboardButton('👀Any doubt👀', url='https://t.me/Vj_achu')
+                    InlineKeyboardButton('👀Any doubt👀', url='https://t.me/Achu_vjsvj')
                 ]
             ]
         ),
