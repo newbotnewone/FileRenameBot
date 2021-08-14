@@ -103,11 +103,11 @@ async def start_me(bot, update):
                 ],
                 [
                     InlineKeyboardButton('📺support Channel📺', url='https://t.me/ottmovies_updates'),
-                    InlineKeyboardButton('👨‍💻Developer👨‍💻', url='https://t.me/Achu_vjsvj')
+                    InlineKeyboardButton('👨‍💻Developer👨‍💻', url='https://t.me/Assistant_achuvj_bot')
                 ],
                 [
                     InlineKeyboardButton('🎬Join To Movies Group🎬', url='https://t.me/CinemaCornerGroup'),
-                    InlineKeyboardButton('👀Any doubt👀', url='https://t.me/Achu_vjsvj')
+                    InlineKeyboardButton('👀Any doubt👀', url='https://t.me/Assistant_achuvj_bot')
                 ]
             ]
         ),
